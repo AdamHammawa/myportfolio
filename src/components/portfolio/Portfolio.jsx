@@ -53,7 +53,7 @@ const data = [
     id: 6,
     Image: IMG6,
     title: "This is a portfolio Website: ReactJS, HTML/CSS, Javascript",
-    github: "https://github.com/AdamHammawa",
+    github: "https://github.com/AdamHammawa/myportfolio",
     demo: "https://adamsani.tech"
   },
 ]
