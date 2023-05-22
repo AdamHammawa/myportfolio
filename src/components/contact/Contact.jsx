@@ -26,8 +26,8 @@ const Contact = () => {
           <article className="contact_option">
             <MdOutlineEmail className='contact_option-item' />
             <h4>Email</h4>
-            <h5>me@adamsani.tech</h5>
-            <a href="mailto:me@adamsani.tech">Send an Email</a>
+            <h5>admin@adamsani.tech</h5>
+            <a href="mailto:admin@adamsani.tech">Send an Email</a>
           </article>
           <article className="contact_option">
             <BsWhatsapp className='contact_option-item'/>
