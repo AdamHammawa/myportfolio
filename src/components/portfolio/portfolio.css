@@ -48,4 +48,9 @@
         grid-template-columns: 1fr;
         gap: 1rem;
     }
+
+    .portfolio_item {
+        align-items: center;
+    }
+
 }
